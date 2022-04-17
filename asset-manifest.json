@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BIOK-apps/static/css/main.1e1a5b8d.css",
+    "main.js": "/BIOK-apps/static/js/main.8e469f8e.js",
+    "static/js/787.1a4834a2.chunk.js": "/BIOK-apps/static/js/787.1a4834a2.chunk.js",
+    "index.html": "/BIOK-apps/index.html",
+    "main.1e1a5b8d.css.map": "/BIOK-apps/static/css/main.1e1a5b8d.css.map",
+    "main.8e469f8e.js.map": "/BIOK-apps/static/js/main.8e469f8e.js.map",
+    "787.1a4834a2.chunk.js.map": "/BIOK-apps/static/js/787.1a4834a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1a5b8d.css",
+    "static/js/main.8e469f8e.js"
+  ]
+}
